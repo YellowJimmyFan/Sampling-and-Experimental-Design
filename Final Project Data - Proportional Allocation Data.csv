@@ -1,0 +1,326 @@
+Citation ,Year,Meta-Analysis,Journal
+"Ojeda FM, Jansen ML, Thiéry A, Blankenberg S, Weimar C, Schmid M, Ziegler A. Calibrating machine learning approaches for probability estimation: A comprehensive comparison. Stat Med. 2023 Dec 20;42(29):5451-5478. doi: 10.1002/sim.9921. Epub 2023 Oct 17. PMID: 37849356.",2023,0,Stats. Med.
+"Liao Z, Qian M, Kronish IM, Cheung YK. Analysis of N-of-1 trials using Bayesian distributed lag model with autocorrelated errors. Stat Med. 2023 Jun 15;42(13):2044-2060. doi: 10.1002/sim.9676. Epub 2023 Feb 10. PMID: 36762453; PMCID: PMC10219844.",2023,0,Stats. Med.
+"Hansen S, Rice K. Exact inference for fixed effects meta-analysis of 2×2$$ 2\times 2 $$ tables. Stat Med. 2023 Aug 30;42(19):3333-3352. doi: 10.1002/sim.9808. Epub 2023 Jun 5. PMID: 37278134.",2023,1,Stats. Med.
+Kojima M. Adjusted closed-form confidence interval formulas for network meta-analysis with a small number of studies. Stat Med. 2023 Feb 20;42(4):457-469. doi: 10.1002/sim.9626. Epub 2022 Dec 20. PMID: 36539211.,2023,1,Stats. Med.
+"Teerenstra S, Kasza J, Leontjevas R, Forbes AB. Sample size for partially nested designs and other nested or crossed designs with a continuous outcome when adjusted for baseline. Stat Med. 2023 Aug 30;42(19):3568-3592. doi: 10.1002/sim.9820. Epub 2023 Jun 22. PMID: 37348855.",2023,0,Stats. Med.
+"Kim HJ, Chen HS, Byrne J, Wheeler B, Feuer EJ. Twenty years since Joinpoint 1.0: Two major enhancements, their justification, and impact. Stat Med. 2022 Jul 20;41(16):3102-3130. doi: 10.1002/sim.9407. Epub 2022 May 6. PMID: 35522060.",2022,0,Stats. Med.
+"Dobbin KK, McShane LM. Sample size methods for evaluation of predictive biomarkers. Stat Med. 2022 Jul 20;41(16):3199-3210. doi: 10.1002/sim.9412. Epub 2022 May 1. PMID: 35491401; PMCID: PMC9233020.",2022,0,Stats. Med.
+"Luo C, Marks-Anglin A, Duan R, Lin L, Hong C, Chu H, Chen Y. Accounting for publication bias using a bivariate trim and fill meta-analysis procedure. Stat Med. 2022 Aug 15;41(18):3466-3478. doi: 10.1002/sim.9428. Epub 2022 May 16. PMID: 35574857.",2022,1,Stats. Med.
+"Arifin WN, Yusof UK. Correcting for partial verification bias in diagnostic accuracy studies: A tutorial using R. Stat Med. 2022 Apr 30;41(9):1709-1727. doi: 10.1002/sim.9311. Epub 2022 Jan 18. PMID: 35043447.",2022,0,Stats. Med.
+"Walter SD, Rychtář J, Taylor D, Balakrishnan N. Estimation of standard deviations and inverse-variance weights from an observed range. Stat Med. 2022 Jan 30;41(2):242-257. doi: 10.1002/sim.9233. Epub 2021 Nov 7. PMID: 34747027.",2022,1,Stats. Med.
+"Zhou Z, Xie M, Huh D, Mun EY. A bias correction method in meta-analysis of randomized clinical trials with no adjustments for zero-inflated outcomes. Stat Med. 2021 Nov 20;40(26):5894-5909. doi: 10.1002/sim.9161. Epub 2021 Sep 3. PMID: 34476827; PMCID: PMC9040424.",2021,1,Stats. Med.
+"Ott M, Plummer M, Roos M. How vague is vague? How informative is informative? Reference analysis for Bayesian meta-analysis. Stat Med. 2021 Sep 10;40(20):4505-4521. doi: 10.1002/sim.9076. Epub 2021 May 26. PMID: 34041768; PMCID: PMC8453582.",2021,1,Stats. Med.
+"Jo S, Park B, Chung Y, Kim J, Lee E, Lee J, Choi T. Bayesian semiparametric mixed effects models for meta-analysis of the literature data : An application to cadmium toxicity studies. Stat Med. 2021 Jul 20;40(16):3762-3778. doi: 10.1002/sim.8996. Epub 2021 Apr 27. PMID: 33906261.",2021,1,Stats. Med.
+"Tallarita M, De Iorio M, Baio G. A comparative review of network meta-analysis models in longitudinal randomized controlled trial. Stat Med. 2019 Jul 20;38(16):3053-3072. doi: 10.1002/sim.8169. Epub 2019 May 3. PMID: 31050822.",2019,0,Stats. Med.
+"Davies TM, Marshall JC, Hazelton ML. Tutorial on kernel estimation of continuous spatial and spatiotemporal relative risk. Stat Med. 2018 Mar 30;37(7):1191-1221. doi: 10.1002/sim.7577. Epub 2017 Dec 11. PMID: 29226352.",2018,0,Stats. Med.
+"Zhou H, Murray TA, Pan H, Yuan Y. Comparative review of novel model-assisted designs for phase I clinical trials. Stat Med. 2018 Jun 30;37(14):2208-2222. doi: 10.1002/sim.7674. Epub 2018 Apr 22. PMID: 29682777.",2018,0,Stats. Med.
+"Austin PC, Fine JP. Accounting for competing risks in randomized controlled trials: a review and recommendations for improvement. Stat Med. 2017 Apr 15;36(8):1203-1209. doi: 10.1002/sim.7215. Epub 2017 Jan 19. PMID: 28102550; PMCID: PMC5347914.",2017,0,Stats. Med.
+"Dmitrienko A, Millen B, Lipkovich I. Multiplicity considerations in subgroup analysis. Stat Med. 2017 Dec 10;36(28):4446-4454. doi: 10.1002/sim.7416. Epub 2017 Aug 1. PMID: 28762525.",2017,0,Stats. Med.
+"Austin PC, Stuart EA. Moving towards best practice when using inverse probability of treatment weighting (IPTW) using the propensity score to estimate causal treatment effects in observational studies. Stat Med. 2015 Dec 10;34(28):3661-79. doi: 10.1002/sim.6607. Epub 2015 Aug 3. PMID: 26238958; PMCID: PMC4626409.",2015,0,Stats. Med.
+"Alosh M, Bretz F, Huque M. Advanced multiplicity adjustment methods in clinical trials. Stat Med. 2014 Feb 20;33(4):693-713. doi: 10.1002/sim.5974. Epub 2013 Sep 16. PMID: 24105821.",2014,0,Stats. Med.
+"Bujkiewicz S, Thompson JR, Sutton AJ, Cooper NJ, Harrison MJ, Symmons DP, Abrams KR. Multivariate meta-analysis of mixed outcomes: a Bayesian approach. Stat Med. 2013 Sep 30;32(22):3926-43. doi: 10.1002/sim.5831. Epub 2013 Apr 30. PMID: 23630081; PMCID: PMC4015389.",2013,0,Stats. Med.
+"Yu Q, Chen R, Tang W, He H, Gallop R, Crits-Christoph P, Hu J, Tu XM. Distribution-free models for longitudinal count responses with overdispersion and structural zeros. Stat Med. 2013 Jun 30;32(14):2390-405. doi: 10.1002/sim.5691. Epub 2012 Dec 12. PMID: 23239019; PMCID: PMC3806502.",2013,0,Stats. Med.
+"Kahan BC, Morris TP. Analysis of multicentre trials with continuous outcomes: when and how should we account for centre effects? Stat Med. 2013 Mar 30;32(7):1136-49. doi: 10.1002/sim.5667. Epub 2012 Oct 30. PMID: 23112128.",2013,0,Stats. Med.
+"Menten J, Boelaert M, Lesaffre E. Bayesian meta-analysis of diagnostic tests allowing for imperfect reference standards. Stat Med. 2013 Dec 30;32(30):5398-413. doi: 10.1002/sim.5959. Epub 2013 Sep 4. PMID: 24003003.",2013,0,Stats. Med.
+"Pennell ML, Hade EM, Murray DM, Rhoda DA. Cutoff designs for community-based intervention studies. Stat Med. 2011 Jul 10;30(15):1865-82. doi: 10.1002/sim.4237. Epub 2011 Apr 17. Erratum in: Stat Med. 2011 Sep 20;30(21):2669. PMID: 21500240; PMCID: PMC3127461.",2011,0,Stats. Med.
+"Li L, Yu M, Chin R, Lucksiri A, Flockhart DA, Hall SD. Drug-drug interaction prediction: a Bayesian meta-analysis approach. Stat Med. 2007 Sep 10;26(20):3700-21. doi: 10.1002/sim.2837. PMID: 17357990.",2007,1,Stats. Med.
+"Wraith D, Mengersen K. Assessing the combined effect of asbestos exposure and smoking on lung cancer: a Bayesian approach. Stat Med. 2007 Feb 28;26(5):1150-69. doi: 10.1002/sim.2602. PMID: 16779874.",2007,1,Stats. Med.
+Kadane JB. Bayesian methods for health-related decision making. Stat Med. 2005 Feb 28;24(4):563-7. doi: 10.1002/sim.2036. PMID: 15678444.,2005,0,Stats. Med.
+"Higdon R, Foster NL, Koeppe RA, DeCarli CS, Jagust WJ, Clark CM, Barbas NR, Arnold SE, Turner RS, Heidebrink JL, Minoshima S. A comparison of classification methods for differentiating fronto-temporal dementia from Alzheimer's disease using FDG-PET imaging. Stat Med. 2004 Jan 30;23(2):315-26. doi: 10.1002/sim.1719. PMID: 14716732.",2004,0,Stats. Med.
+Matsuyama Y. Sensitivity analysis for the estimation of rates of change with non-ignorable drop-out: an application to a randomized clinical trial of the vitamin D3. Stat Med. 2003 Mar 15;22(5):811-27. doi: 10.1002/sim.1367. PMID: 12587107.,2003,0,Stats. Med.
+Blume JD. Likelihood methods for measuring statistical evidence. Stat Med. 2002 Sep 15;21(17):2563-99. doi: 10.1002/sim.1216. PMID: 12205699.,2002,0,Stats. Med.
+"Rosenberger WF, Haines LM. Competing designs for phase I clinical trials: a review. Stat Med. 2002 Sep 30;21(18):2757-70. doi: 10.1002/sim.1229. PMID: 12228889.",2002,0,Stats. Med.
+"Corcoran C, Mehta C, Patel N, Senchaudhuri P. Computational tools for exact conditional logistic regression. Stat Med. 2001 Sep 15-30;20(17-18):2723-39. doi: 10.1002/sim.739. PMID: 11523079.",2001,0,Stats. Med.
+Whitehead J. A unified theory for sequential clinical trials. Stat Med. 1999 Sep 15-30;18(17-18):2271-86. doi: 10.1002/(sici)1097-0258(19990915/30)18:17/18<2271::aid-sim254>3.0.co;2-z. PMID: 10474138.,1999,0,Stats. Med.
+"Omar RZ, Wright EM, Turner RM, Thompson SG. Analysing repeated measurements data: a practical comparison of methods. Stat Med. 1999 Jul 15;18(13):1587-603. doi: 10.1002/(sici)1097-0258(19990715)18:13<1587::aid-sim141>3.0.co;2-z. PMID: 10407231.",1999,0,Stats. Med.
+"Cook RJ, Ng ET, Mukherjee J, Vaughan D. Two-state mixed renewal processes for chronic disease. Stat Med. 1999 Jan 30;18(2):175-88. doi: 10.1002/(sici)1097-0258(19990130)18:2<175::aid-sim997>3.0.co;2-b. PMID: 10028138.",1999,0,Stats. Med.
+"Facey KM, Lewis JA. The management of interim analyses in drug development. Stat Med. 1998 Aug 15-30;17(15-16):1801-9; discussion 1811-2. doi: 10.1002/(sici)1097-0258(19980815/30)17:15/16<1801::aid-sim981>3.0.co;2-l. PMID: 9749448.",1998,0,Stats. Med.
+Green TA. Using surveillance data to monitor trends in the AIDS epidemic. Stat Med. 1998 Jan 30;17(2):143-54. doi: 10.1002/(sici)1097-0258(19980130)17:2<143::aid-sim757>3.0.co;2-y. PMID: 9483725.,1998,0,Stats. Med.
+"Tsodikov A, Hasenclever D, Loeffler M. Regression with bounded outcome score: evaluation of power by bootstrap and simulation in a chronic myelogenous leukaemia clinical trial. Stat Med. 1998 Sep 15;17(17):1909-22. doi: 10.1002/(sici)1097-0258(19980915)17:17<1909::aid-sim890>3.0.co;2-0. PMID: 9777686.",1998,0,Stats. Med.
+"Hosmer DW, Hosmer T, Le Cessie S, Lemeshow S. A comparison of goodness-of-fit tests for the logistic regression model. Stat Med. 1997 May 15;16(9):965-80. doi: 10.1002/(sici)1097-0258(19970515)16:9<965::aid-sim509>3.0.co;2-o. PMID: 9160492.",1997,0,Stats. Med.
+"Thompson SG, Pyke SD, Hardy RJ. The design and analysis of paired cluster randomized trials: an application of meta-analysis techniques. Stat Med. 1997 Sep 30;16(18):2063-79. doi: 10.1002/(sici)1097-0258(19970930)16:18<2063::aid-sim642>3.0.co;2-8. PMID: 9308132.",1997,0,Stats. Med.
+"DeLong ER, Peterson ED, DeLong DM, Muhlbaier LH, Hackett S, Mark DB. Comparing risk-adjustment methods for provider profiling. Stat Med. 1997 Dec 15;16(23):2645-64. doi: 10.1002/(sici)1097-0258(19971215)16:23<2645::aid-sim696>3.0.co;2-d. PMID: 9421867.",1997,0,Stats. Med.
+Feinstein AR. Meta-analysis and meta-analytic monitoring of clinical trials. Stat Med. 1996 Jun 30;15(12):1273-80; discussion 1281-3. doi: 10.1002/(SICI)1097-0258(19960630)15:12<1273::AID-SIM307>3.0.CO;2-D. PMID: 8817801.,1996,0,Stats. Med.
+"Greenhouse JB, Silliman NP. Applications of a mixture survival model with covariates to the analysis of a depression prevention trial. Stat Med. 1996 Oct 15;15(19):2077-94. doi: 10.1002/(SICI)1097-0258(19961015)15:19<2077::AID-SIM348>3.0.CO;2-X. PMID: 8896141.",1996,0,Stats. Med.
+"Saei A, Ward J, McGilchrist CA. Threshold models in a methadone programme evaluation. Stat Med. 1996 Oct 30;15(20):2253-60. doi: 10.1002/(SICI)1097-0258(19961030)15:20<2253::AID-SIM368>3.0.CO;2-7. PMID: 8910967.",1996,0,Stats. Med.
+"Altman DG, De Stavola BL. Practical problems in fitting a proportional hazards model to data with updated measurements of the covariates. Stat Med. 1994 Feb 28;13(4):301-41. doi: 10.1002/sim.4780130402. PMID: 8177984.",1994,0,Stats. Med.
+"Grambsch P, Louis TA, Bostick RM, Grandits GA, Fosdick L, Darif M, Potter JD. Statistical analysis of proliferative index data in clinical trials. Stat Med. 1994 Aug 30;13(16):1619-34. doi: 10.1002/sim.4780131603. PMID: 7973238.",1994,0,Stats. Med.
+"Com-Nougue C, Rodary C, Patte C. How to establish equivalence when data are censored: a randomized trial of treatments for B non-Hodgkin lymphoma. Stat Med. 1993 Jul 30;12(14):1353-64. doi: 10.1002/sim.4780121407. PMID: 8210831.",1993,0,Stats. Med.
+"Gaffney M, Taylor C, Cusenza E. Harmonic regression analysis of the effect of drug treatment on the diurnal rhythm of blood pressure and angina. Stat Med. 1993 Jan 30;12(2):129-42. doi: 10.1002/sim.4780120205. PMID: 8446808.",1993,0,Stats. Med.
+"McKnight B, Van den Eeden SK. A conditional analysis for two-treatment multiple-period crossover designs with binomial or poisson outcomes and subjects who drop out. Stat Med. 1993 May 15;12(9):825-34. doi: 10.1002/sim.4780120903. PMID: 8327802.",1993,0,Stats. Med.
+"Laor A, Cohen A. Analysis of premature ventricular counts in long term ECG following myocardial infarction. Stat Med. 1992 May;11(7):963-73. doi: 10.1002/sim.4780110713. PMID: 1376482.",1992,0,Stats. Med.
+Julious SA. Sample sizes for clinical trials with normal data. Stat Med. 2004 Jun 30;23(12):1921-86. doi: 10.1002/sim.1783. PMID: 15195324.,2004,0,Stats. Med.
+"Giordani P, Kiers HAL. A review of tensor-based methods and their application to hospital care data. Stat Med. 2018 Jan 15;37(1):137-156. doi: 10.1002/sim.7514. Epub 2017 Oct 10. PMID: 29023942.",2018,0,Stats. Med.
+"Taylor L, Zhou XH, Rise P. A tutorial in assessing disclosure risk in microdata. Stat Med. 2018 Nov 10;37(25):3693-3706. doi: 10.1002/sim.7667. Epub 2018 Jun 21. PMID: 29931695.",2018,0,Stats. Med.
+"Robertson DS, Choodari-Oskooei B, Dimairo M, Flight L, Pallmann P, Jaki T. Point estimation for adaptive trial designs II: Practical considerations and guidance. Stat Med. 2023 Jun 30;42(14):2496-2520. doi: 10.1002/sim.9734. Epub 2023 Apr 5. PMID: 37021359; PMCID: PMC7614609.",2023,0,Stats. Med.
+"de Klerk E, van der Linden S, van der Heijde D, Urquhart J. Facilitated analysis of data on drug regimen compliance. Stat Med. 1997 Jul 30;16(14):1653-64. doi: 10.1002/(sici)1097-0258(19970730)16:14<1653::aid-sim591>3.0.co;2-#. PMID: 9257419.",1997,0,Stats. Med.
+"Mander AP, Hughes MD, Sharp SJ, Lamm CJ. Autoregressive models for describing non-linear changes in biological parameters fitted using BUGS. Stat Med. 1999 Oct 30;18(20):2709-22. doi: 10.1002/(sici)1097-0258(19991030)18:20<2709::aid-sim236>3.0.co;2-g. PMID: 10521861.",1999,0,Stats. Med.
+Senn S. A random effects model for ordinal responses from a crossover trial. Stat Med. 1993 Nov 30;12(22):2147-51. doi: 10.1002/sim.4780122208. PMID: 8310185.,1993,0,Stats. Med.
+"Broët P, Moreau T, Lellouch J, Asselain B. Unobserved covariates in the two-sample comparison of survival times: a maximum efficiency robust test. Stat Med. 1999 Jul 30;18(14):1791-800; discussion 1801. doi: 10.1002/(sici)1097-0258(19990730)18:14<1791::aid-sim215>3.0.co;2-w. PMID: 10407249.",1999,0,Stats. Med.
+Albert JM. Estimating efficacy in clinical trials with clustered binary responses. Stat Med. 2002 Mar 15;21(5):649-61. doi: 10.1002/sim.1059. PMID: 11870807.,2002,0,Stats. Med.
+"Greenhouse JB, Wasserman L. Robust Bayesian methods for monitoring clinical trials. Stat Med. 1995 Jun 30;14(12):1379-91. doi: 10.1002/sim.4780141210. PMID: 7569495.",1995,0,Stats. Med.
+"Chen Y, Hong C, Riley RD. An alternative pseudolikelihood method for multivariate random-effects meta-analysis. Stat Med. 2015 Feb 10;34(3):361-80. doi: 10.1002/sim.6350. Epub 2014 Nov 3. PMID: 25363629; PMCID: PMC4305202.",2015,0,Stats. Med.
+Lewis JA. Statistical issues in the regulation of medicines. Stat Med. 1995 Jan 30;14(2):127-36. doi: 10.1002/sim.4780140205. PMID: 7754261.,1995,0,Stats. Med.
+"Huster WJ, Enas GG. A framework establishing clear decision criteria for the assessment of drug efficacy. Stat Med. 1998 Aug 15-30;17(15-16):1829-38. doi: 10.1002/(sici)1097-0258(19980815/30)17:15/16<1829::aid-sim985>3.0.co;2-k. PMID: 9749450.",1998,0,Stats. Med.
+"Baghfalaki T, Sugier PE, Truong T, Pettitt AN, Mengersen K, Liquet B. Bayesian meta-analysis models for cross cancer genomic investigation of pleiotropic effects using group structure. Stat Med. 2021 Mar 15;40(6):1498-1518. doi: 10.1002/sim.8855. Epub 2020 Dec 27. PMID: 33368447.",2021,1,Stats. Med.
+"Röver C, Ursino M, Friede T, Zohar S. A straightforward meta-analysis approach for oncology phase I dose-finding studies. Stat Med. 2022 Sep 10;41(20):3915-3940. doi: 10.1002/sim.9484. Epub 2022 Jun 5. PMID: 35661205.",2022,1,Stats. Med.
+"Rockhold FW, Enas GG. Data monitoring and interim analyses in the pharmaceutical industry: ethical and logistical considerations. Stat Med. 1993 Mar;12(5-6):471-9. doi: 10.1002/sim.4780120512. PMID: 8493425.",1993,0,Stats. Med.
+Stat Methods Med Res. 1999 Jun;8(2):135-60. doi: 10.1177/096228029900800204.,1999,0,Stat Methods Med Res
+Stat Methods Med Res. 2017 Oct;26(5):2333-2355. doi: 10.1177/0962280215597579. Epub 2015 Aug 17.,2017,0,Stat Methods Med Res
+Stat Methods Med Res. 2010 Feb;19(1):53-70. doi: 10.1177/0962280209105023. Epub 2009 Aug 4.,2010,0,Stat Methods Med Res
+Stat Methods Med Res. 2008 Jun;17(3):265-77. doi: 10.1177/0962280207080642. Epub 2007 Oct 9.,2008,0,Stat Methods Med Res
+Stat Methods Med Res. 1998 Sep;7(3):235-51. doi: 10.1177/096228029800700303.,1998,0,Stat Methods Med Res
+Stat Methods Med Res. 1992;1(1):3-25. doi: 10.1177/096228029200100102.,1992,0,Stat Methods Med Res
+Stat Methods Med Res. 2022 Sep;31(9):1641-1655. doi: 10.1177/09622802211023955. Epub 2021 Dec 21.,2022,0,Stat Methods Med Res
+Stat Methods Med Res. 1992;1(1):49-67. doi: 10.1177/096228029200100104.,1992,0,Stat Methods Med Res
+Stat Methods Med Res. 2016 Feb;25(1):315-35. doi: 10.1177/0962280212452333. Epub 2012 Jun 22.,2016,0,Stat Methods Med Res
+Stat Methods Med Res. 2000 Dec;9(6):563-87. doi: 10.1177/096228020000900604.,2000,0,Stat Methods Med Res
+Stat Methods Med Res. 2016 Oct;25(5):2377-2393. doi: 10.1177/0962280214523192. Epub 2014 Sep 12.,2016,0,Stat Methods Med Res
+Stat Methods Med Res. 2015 Dec;24(6):615-34. doi: 10.1177/0962280211419832. Epub 2011 Sep 18.,2015,0,Stat Methods Med Res
+Stat Methods Med Res. 2022 Aug;31(8):1617-1636. doi: 10.1177/09622802221102619. Epub 2022 May 23.,2022,0,Stat Methods Med Res
+Stat Methods Med Res. 2010 Feb;19(1):71-99. doi: 10.1177/0962280209105020. Epub 2009 Aug 4.,2010,0,Stat Methods Med Res
+Stat Methods Med Res. 2018 Mar;27(3):798-811. doi: 10.1177/0962280216643117. Epub 2016 Apr 11.,2018,0,Stat Methods Med Res
+Stat Methods Med Res. 1998 Sep;7(3):301-17. doi: 10.1177/096228029800700306.,1998,0,Stat Methods Med Res
+Stat Methods Med Res. 2005 Feb;14(1):17-34. doi: 10.1191/0962280205sm387oa.,2005,0,Stat Methods Med Res
+Stat Methods Med Res. 2010 Feb;19(1):5-28. doi: 10.1177/0962280209105022. Epub 2009 Jul 16.,2010,0,Stat Methods Med Res
+Stat Methods Med Res. 2022 Sep;31(9):1675-1685. doi: 10.1177/09622802211037079. Epub 2021 Sep 27.,2022,0,Stat Methods Med Res
+Stat Methods Med Res. 2014 Aug;23(4):346-68. doi: 10.1177/0962280212473300. Epub 2013 Mar 12.,2014,0,Stat Methods Med Res
+Stat Methods Med Res. 2023 May;32(5):927-943. doi: 10.1177/09622802231158811. Epub 2023 Apr 3.,2023,0,Stat Methods Med Res
+Stat Methods Med Res. 1996 Mar;5(1):67-99. doi: 10.1177/096228029600500105.,1996,0,Stat Methods Med Res
+Stat Methods Med Res. 2001 Feb;10(1):3-25. doi: 10.1177/096228020101000102.,2001,0,Stat Methods Med Res
+Stat Methods Med Res. 2013 Apr;22(2):117-32. doi: 10.1177/0962280211432218. Epub 2012 Jan 4.,2013,1,Stat Methods Med Res
+Stat Methods Med Res. 1993;2(1):93-112. doi: 10.1177/096228029300200106.,1993,0,Stat Methods Med Res
+Stat Methods Med Res. 2002 Apr;11(2):141-66. doi: 10.1191/0962280202sm278ra.,2002,0,Stat Methods Med Res
+Stat Methods Med Res. 2015 Apr;24(2):177-93. doi: 10.1177/0962280211413452. Epub 2011 Dec 2.,2015,0,Stat Methods Med Res
+Stat Methods Med Res. 2010 Feb;19(1):29-51. doi: 10.1177/0962280209105024. Epub 2009 Aug 4.,2010,0,Stat Methods Med Res
+Stat Methods Med Res. 2023 Sep;32(9):1842-1855. doi: 10.1177/09622802231192954. Epub 2023 Aug 9.,2023,0,Stat Methods Med Res
+Stat Methods Med Res. 1997 Sep;6(3):191-214. doi: 10.1177/096228029700600302.,1997,0,Stat Methods Med Res
+Stat Methods Med Res. 2008 Jun;17(3):231-42. doi: 10.1177/0962280207080639. Epub 2007 Oct 9.,2008,0,Stat Methods Med Res
+Stat Methods Med Res. 2010 Dec;19(6):621-51. doi: 10.1177/0962280209105541. Epub 2009 Aug 4.,2010,0,Stat Methods Med Res
+Stat Methods Med Res. 1992;1(3):225-47. doi: 10.1177/096228029200100302.,1992,0,Stat Methods Med Res
+Stat Methods Med Res. 2014 Feb;23(1):42-59. doi: 10.1177/0962280212445834. Epub 2012 Apr 20.,2014,0,Stat Methods Med Res
+Stat Methods Med Res. 2012 Apr;21(2):111-33. doi: 10.1177/0962280210385865. Epub 2010 Oct 25.,2012,0,Stat Methods Med Res
+J Clin Epidemiol. 2022 Jun;146:77-85. doi: 10.1016/j.jclinepi.2022.02.015. Epub 2022 Mar 8.,2022,0,J Clin Epidemiol
+J Clin Epidemiol. 2009 Nov;62(11):1218-23. doi: 10.1016/j.jclinepi.2008.12.009. Epub 2009 Apr 8.,2009,0,J Clin Epidemiol
+J Clin Epidemiol. 2019 Mar;107:12-26. doi: 10.1016/j.jclinepi.2018.11.001. Epub 2018 Nov 10.,2019,0,J Clin Epidemiol
+J Clin Epidemiol. 2018 Jun;98:80-88. doi: 10.1016/j.jclinepi.2018.02.013. Epub 2018 Feb 24.,2018,0,J Clin Epidemiol
+J Clin Epidemiol. 2015 Dec;68(12):1512-22. doi: 10.1016/j.jclinepi.2015.03.008. Epub 2015 Mar 27.,2015,0,J Clin Epidemiol
+J Clin Epidemiol. 2023 Apr;156:113-118. doi: 10.1016/j.jclinepi.2023.01.008. Epub 2023 Feb 1.,2023,0,J Clin Epidemiol
+J Clin Epidemiol. 1995 Jan;48(1):71-9. doi: 10.1016/0895-4356(94)00110-c.,1995,1,J Clin Epidemiol
+J Clin Epidemiol. 2019 Jan;105:68-79. doi: 10.1016/j.jclinepi.2018.09.010. Epub 2018 Sep 22.,2019,0,J Clin Epidemiol
+J Clin Epidemiol. 2020 Jul;123:69-79. doi: 10.1016/j.jclinepi.2020.03.015. Epub 2020 Mar 30.,2020,0,J Clin Epidemiol
+J Clin Epidemiol. 2023 Sep;161:140-151. doi: 10.1016/j.jclinepi.2023.07.017. Epub 2023 Aug 2.,2023,0,J Clin Epidemiol
+J Clin Epidemiol. 2018 Mar;95:137-139. doi: 10.1016/j.jclinepi.2017.11.019. Epub 2017 Nov 24.,2018,0,J Clin Epidemiol
+J Clin Epidemiol. 2023 Mar;155:48-63. doi: 10.1016/j.jclinepi.2023.01.003. Epub 2023 Jan 18.,2023,0,J Clin Epidemiol
+J Clin Epidemiol. 2022 Oct;150:216-224. doi: 10.1016/j.jclinepi.2022.07.014. Epub 2022 Aug 4.,2022,0,J Clin Epidemiol
+J Clin Epidemiol. 2020 Oct;126:177-183. doi: 10.1016/j.jclinepi.2020.06.029. Epub 2020 Jun 29.,2020,0,J Clin Epidemiol
+J Clin Epidemiol. 1997 May;50(5):547-56. doi: 10.1016/s0895-4356(97)00013-9.,1997,0,J Clin Epidemiol
+J Clin Epidemiol. 2021 Sep;137:218-230. doi: 10.1016/j.jclinepi.2021.04.009. Epub 2021 Apr 26.,2021,0,J Clin Epidemiol
+J Clin Epidemiol. 2021 Jul;135:125-135. doi: 10.1016/j.jclinepi.2021.03.005. Epub 2021 Mar 7.,2021,0,J Clin Epidemiol
+J Clin Epidemiol. 2023 May;157:134-145. doi: 10.1016/j.jclinepi.2023.03.010. Epub 2023 Mar 15.,2023,0,J Clin Epidemiol
+J Clin Epidemiol. 2020 Nov;127:167-174. doi: 10.1016/j.jclinepi.2020.08.007. Epub 2020 Aug 13.,2020,0,J Clin Epidemiol
+J Clin Epidemiol. 2023 May;157:59-73. doi: 10.1016/j.jclinepi.2023.03.002. Epub 2023 Mar 6.,2023,0,J Clin Epidemiol
+J Clin Epidemiol. 2022 Apr;144:43-55. doi: 10.1016/j.jclinepi.2021.12.018. Epub 2021 Dec 18.,2022,0,J Clin Epidemiol
+J Clin Epidemiol. 2023 Jul;159:159-173. doi: 10.1016/j.jclinepi.2023.04.012. Epub 2023 May 2.,2023,0,J Clin Epidemiol
+J Clin Epidemiol. 2022 Aug;148:74-80. doi: 10.1016/j.jclinepi.2022.04.020. Epub 2022 Apr 18.,2022,0,J Clin Epidemiol
+J Clin Epidemiol. 2020 Dec;128:109-117. doi: 10.1016/j.jclinepi.2020.09.023. Epub 2020 Sep 25.,2020,1,J Clin Epidemiol
+J Clin Epidemiol. 2018 Jun;98:41-52. doi: 10.1016/j.jclinepi.2018.02.006. Epub 2018 Feb 13.,2018,0,J Clin Epidemiol
+J Clin Epidemiol. 1996 Dec;49(12):1345-52. doi: 10.1016/s0895-4356(96)00269-7.,1996,0,J Clin Epidemiol
+J Clin Epidemiol. 2019 Nov;115:46-54. doi: 10.1016/j.jclinepi.2019.06.014. Epub 2019 Jun 26.,2019,0,J Clin Epidemiol
+J Clin Epidemiol. 2005 Apr;58(4):425-9. doi: 10.1016/j.jclinepi.2004.10.006.,2005,0,J Clin Epidemiol
+J Clin Epidemiol. 2023 Jul;159:300-308. doi: 10.1016/j.jclinepi.2023.05.005. Epub 2023 May 6.,2023,0,J Clin Epidemiol
+J Clin Epidemiol. 2022 Nov;151:29-44. doi: 10.1016/j.jclinepi.2022.07.011. Epub 2022 Aug 5.,2022,0,J Clin Epidemiol
+J Clin Epidemiol. 1992 Jun;45(6):587-94. doi: 10.1016/0895-4356(92)90130-f.,1992,1,J Clin Epidemiol
+J Clin Epidemiol. 2006 Mar;59(3):234-40. doi: 10.1016/j.jclinepi.2005.07.014.,2006,0,J Clin Epidemiol
+J Clin Epidemiol. 2021 May;133:14-23. doi: 10.1016/j.jclinepi.2020.12.023. Epub 2021 Jan 6.,2021,0,J Clin Epidemiol
+J Clin Epidemiol. 2021 Sep;137:45-57. doi: 10.1016/j.jclinepi.2021.03.021. Epub 2021 Mar 28.,2021,0,J Clin Epidemiol
+J Clin Epidemiol. 2022 Mar;143:242-253. doi: 10.1016/j.jclinepi.2021.10.027. Epub 2021 Nov 6.,2022,0,J Clin Epidemiol
+J Clin Epidemiol. 2002 Jan;55(1):11-8. doi: 10.1016/s0895-4356(01)00412-7.,2002,0,J Clin Epidemiol
+J Clin Epidemiol. 2021 Nov;139:57-67. doi: 10.1016/j.jclinepi.2021.06.020. Epub 2021 Jun 26.,2021,0,J Clin Epidemiol
+J Clin Epidemiol. 2023 May;157:74-82. doi: 10.1016/j.jclinepi.2023.03.006. Epub 2023 Mar 10.,2023,0,J Clin Epidemiol
+J Clin Epidemiol. 2017 Sep;89:17-20. doi: 10.1016/j.jclinepi.2017.03.013. Epub 2017 Mar 29.,2017,0,J Clin Epidemiol
+J Clin Epidemiol. 2005 Nov;58(11):1081-8. doi: 10.1016/j.jclinepi.2005.09.002.,2005,0,J Clin Epidemiol
+J Clin Epidemiol. 2003 Jun;56(6):501-6. doi: 10.1016/s0895-4356(03)00080-5.,2003,0,J Clin Epidemiol
+J Clin Epidemiol. 2022 Aug;148:81-92. doi: 10.1016/j.jclinepi.2022.04.011. Epub 2022 Apr 22.,2022,0,J Clin Epidemiol
+J Clin Epidemiol. 2020 Jul;123:180-188.e2. doi: 10.1016/j.jclinepi.2020.02.010. Epub 2020 Mar 4.,2020,0,J Clin Epidemiol
+J Clin Epidemiol. 2000 May;53(5):459-68. doi: 10.1016/s0895-4356(99)00206-1.,2000,0,J Clin Epidemiol
+J Clin Epidemiol. 2021 May;133:111-120. doi: 10.1016/j.jclinepi.2021.01.016. Epub 2021 Jan 27.,2021,0,J Clin Epidemiol
+J Clin Epidemiol. 1991;44(4-5):417-21. doi: 10.1016/0895-4356(91)90080-s.,1991,0,J Clin Epidemiol
+J Clin Epidemiol. 2018 Jun;98:157-159. doi: 10.1016/j.jclinepi.2017.12.014. Epub 2017 Dec 27.,2018,1,J Clin Epidemiol
+J Clin Epidemiol. 2012 Jul;65(7):748-55. doi: 10.1016/j.jclinepi.2011.11.013. Epub 2012 May 5.,2012,0,J Clin Epidemiol
+J Clin Epidemiol. 2023 Sep 12;162:145-155. doi: 10.1016/j.jclinepi.2023.09.001. Online ahead of print.,2023,0,J Clin Epidemiol
+J Clin Epidemiol. 2023 Aug;160:151-159. doi: 10.1016/j.jclinepi.2023.06.010. Epub 2023 Jun 20.,2023,1,J Clin Epidemiol
+J Clin Epidemiol. 2017 Sep;89:188-198. doi: 10.1016/j.jclinepi.2017.06.009. Epub 2017 Jul 1.,2017,0,J Clin Epidemiol
+J Clin Epidemiol. 1992 Aug;45(8):841-7. doi: 10.1016/0895-4356(92)90067-w.,1992,0,J Clin Epidemiol
+J Clin Epidemiol. 2020 Apr;120:67-85. doi: 10.1016/j.jclinepi.2019.12.009. Epub 2019 Dec 14.,2020,0,J Clin Epidemiol
+J Clin Epidemiol. 2018 Jul;99:14-23. doi: 10.1016/j.jclinepi.2018.02.016. Epub 2018 Mar 2.,2018,0,J Clin Epidemiol
+J Clin Epidemiol. 2020 Jan;117:9-19. doi: 10.1016/j.jclinepi.2019.09.009. Epub 2019 Sep 15.,2020,0,J Clin Epidemiol
+J Clin Epidemiol. 2020 Oct;126:106-115. doi: 10.1016/j.jclinepi.2020.06.025. Epub 2020 Jun 27.,2020,0,J Clin Epidemiol
+J Clin Epidemiol. 2023 Apr;156:1-10. doi: 10.1016/j.jclinepi.2023.02.007. Epub 2023 Feb 9.,2023,0,J Clin Epidemiol
+J Clin Epidemiol. 2022 Feb;142:152-160. doi: 10.1016/j.jclinepi.2021.11.007. Epub 2021 Nov 8.,2022,0,J Clin Epidemiol
+J Clin Epidemiol. 2023 Sep;161:53-64. doi: 10.1016/j.jclinepi.2023.07.005. Epub 2023 Jul 21.,2023,0,J Clin Epidemiol
+J Clin Epidemiol. 2011 Jan;64(1):21-4. doi: 10.1016/j.jclinepi.2009.08.012. Epub 2009 Nov 3.,2011,0,J Clin Epidemiol
+J Clin Epidemiol. 2023 Jul;159:92-105. doi: 10.1016/j.jclinepi.2023.05.013. Epub 2023 May 20.,2023,0,J Clin Epidemiol
+J Clin Epidemiol. 2020 Oct;126:172-176. doi: 10.1016/j.jclinepi.2020.06.037. Epub 2020 Jul 3.,2020,0,J Clin Epidemiol
+J Clin Epidemiol. 1995 Apr;48(4):455-65. doi: 10.1016/0895-4356(94)00174-o.,1995,0,J Clin Epidemiol
+J Clin Epidemiol. 2021 Dec;140:22-32. doi: 10.1016/j.jclinepi.2021.08.022. Epub 2021 Aug 23.,2021,0,J Clin Epidemiol
+J Clin Epidemiol. 2020 Jun;122:1-11. doi: 10.1016/j.jclinepi.2020.02.006. Epub 2020 Feb 25.,2020,0,J Clin Epidemiol
+J Clin Epidemiol. 2016 Nov;79:70-75. doi: 10.1016/j.jclinepi.2016.04.014. Epub 2016 May 27.,2016,0,J Clin Epidemiol
+J Clin Epidemiol. 2019 Sep;113:189-199. doi: 10.1016/j.jclinepi.2019.05.021. Epub 2019 May 28.,2019,0,J Clin Epidemiol
+J Clin Epidemiol. 1995 Dec;48(12):1495-501. doi: 10.1016/0895-4356(95)00510-2.,1995,0,J Clin Epidemiol
+J Clin Epidemiol. 2017 Jun;86:75-83. doi: 10.1016/j.jclinepi.2016.05.018. Epub 2016 Oct 15.,2017,0,J Clin Epidemiol
+J Clin Epidemiol. 2023 May;157:1-12. doi: 10.1016/j.jclinepi.2023.02.010. Epub 2023 Mar 8.,2023,0,J Clin Epidemiol
+J Clin Epidemiol. 1995 Jan;48(1):119-30; discussion 131-2. doi: 10.1016/0895-4356(94)00099-c.,1995,0,J Clin Epidemiol
+J Clin Epidemiol. 2003 Jan;56(1):44-51. doi: 10.1016/s0895-4356(02)00520-6.,2003,1,J Clin Epidemiol
+J Clin Epidemiol. 2017 Mar;83:48-56. doi: 10.1016/j.jclinepi.2017.01.004. Epub 2017 Jan 23.,2017,1,J Clin Epidemiol
+J Clin Epidemiol. 2021 Feb;130:135-142. doi: 10.1016/j.jclinepi.2020.10.015. Epub 2020 Oct 31.,2021,0,J Clin Epidemiol
+J Clin Epidemiol. 2021 Oct;138:139-146. doi: 10.1016/j.jclinepi.2021.06.018. Epub 2021 Jun 26.,2021,0,J Clin Epidemiol
+J Clin Epidemiol. 2023 Jun;158:127-133. doi: 10.1016/j.jclinepi.2023.03.022. Epub 2023 Apr 11.,2023,0,J Clin Epidemiol
+J Clin Epidemiol. 2023 Jun;158:27-33. doi: 10.1016/j.jclinepi.2023.03.023. Epub 2023 Mar 31.,2023,0,J Clin Epidemiol
+J Clin Epidemiol. 2022 Oct;150:25-32. doi: 10.1016/j.jclinepi.2022.06.010. Epub 2022 Jun 24.,2022,0,J Clin Epidemiol
+J Clin Epidemiol. 2018 Aug;100:92-102. doi: 10.1016/j.jclinepi.2018.04.008. Epub 2018 Apr 13.,2018,0,J Clin Epidemiol
+J Clin Epidemiol. 2021 May;133:1-13. doi: 10.1016/j.jclinepi.2020.12.019. Epub 2021 Jan 13.,2021,0,J Clin Epidemiol
+J Clin Epidemiol. 2023 Nov 4:S0895-4356(23)00293-7. doi: 10.1016/j.jclinepi.2023.10.025. Online ahead of print.,2023,1,J Clin Epidemiol
+J Clin Epidemiol. 2016 Aug;76:65-75. doi: 10.1016/j.jclinepi.2016.03.026. Epub 2016 Apr 20.,2016,1,J Clin Epidemiol
+J Clin Epidemiol. 2019 May;109:90-98. doi: 10.1016/j.jclinepi.2019.01.011. Epub 2019 Feb 2.,2019,0,J Clin Epidemiol
+J Clin Epidemiol. 2004 May;57(5):435-7. doi: 10.1016/j.jclinepi.2003.12.011.,2004,0,J Clin Epidemiol
+J Clin Epidemiol. 2020 May;121:32-44. doi: 10.1016/j.jclinepi.2020.01.006. Epub 2020 Jan 20.,2020,0,J Clin Epidemiol
+J Clin Epidemiol. 2010 Jan;63(1):19-27. doi: 10.1016/j.jclinepi.2009.07.005. Epub 2009 Sep 27.,2010,0,J Clin Epidemiol
+J Clin Epidemiol. 2015 Jul;68(7):740-51. doi: 10.1016/j.jclinepi.2015.02.006. Epub 2015 Feb 18.,2015,1,J Clin Epidemiol
+J Clin Epidemiol. 2019 Jun;110:34-41. doi: 10.1016/j.jclinepi.2019.02.012. Epub 2019 Feb 26.,2019,0,J Clin Epidemiol
+J Clin Epidemiol. 2013 Apr;66(4):367-70. doi: 10.1016/j.jclinepi.2012.11.009. Epub 2013 Feb 4.,2013,0,J Clin Epidemiol
+J Clin Epidemiol. 2021 Oct;138:49-59. doi: 10.1016/j.jclinepi.2021.06.021. Epub 2021 Jun 29.,2021,0,J Clin Epidemiol
+J Clin Epidemiol. 1991;44(10):1105-14. doi: 10.1016/0895-4356(91)90013-y.,1991,0,J Clin Epidemiol
+J Clin Epidemiol. 2020 Mar;119:117-125. doi: 10.1016/j.jclinepi.2019.11.017. Epub 2019 Nov 30.,2020,0,J Clin Epidemiol
+J Clin Epidemiol. 2000 Mar 1;53(3):331-4. doi: 10.1016/s0895-4356(99)00166-3.,2000,0,J Clin Epidemiol
+J Clin Epidemiol. 2021 Nov;139:279-286. doi: 10.1016/j.jclinepi.2021.05.020. Epub 2021 Jun 6.,2021,0,J Clin Epidemiol
+J Clin Epidemiol. 2000 Jan;53(1):39-45. doi: 10.1016/s0895-4356(99)00099-2.,2000,0,J Clin Epidemiol
+J Clin Epidemiol. 2022 Mar;143:30-60. doi: 10.1016/j.jclinepi.2021.11.030. Epub 2021 Nov 22.,2022,0,J Clin Epidemiol
+J Clin Epidemiol. 2022 Nov;151:171-184. doi: 10.1016/j.jclinepi.2022.08.003. Epub 2022 Aug 18.,2022,0,J Clin Epidemiol
+J Clin Epidemiol. 2017 Dec;92:69-78. doi: 10.1016/j.jclinepi.2017.09.001. Epub 2017 Sep 12.,2017,0,J Clin Epidemiol
+J Clin Epidemiol. 2020 Jan;117:78-88. doi: 10.1016/j.jclinepi.2019.10.001. Epub 2019 Oct 5.,2020,0,J Clin Epidemiol
+J Clin Epidemiol. 2022 Sep;149:175-182. doi: 10.1016/j.jclinepi.2022.05.012. Epub 2022 May 27.,2022,0,J Clin Epidemiol
+J Clin Epidemiol. 2021 Jan;129:114-123. doi: 10.1016/j.jclinepi.2020.09.029. Epub 2020 Sep 26.,2021,0,J Clin Epidemiol
+J Clin Epidemiol. 2017 Jun;86:91-100. doi: 10.1016/j.jclinepi.2016.10.007. Epub 2016 Oct 28.,2017,0,J Clin Epidemiol
+J Clin Epidemiol. 2002 Nov;55(11):1148-55. doi: 10.1016/s0895-4356(02)00458-4.,2002,0,J Clin Epidemiol
+J Clin Epidemiol. 2021 Sep;137:1-13. doi: 10.1016/j.jclinepi.2021.03.007. Epub 2021 Mar 13.,2021,0,J Clin Epidemiol
+J Clin Epidemiol. 2007 Oct;60(10):990-1001. doi: 10.1016/j.jclinepi.2006.12.013. Epub 2007 Jul 16.,2007,0,J Clin Epidemiol
+J Clin Epidemiol. 2019 Feb;106:10-17. doi: 10.1016/j.jclinepi.2018.10.002. Epub 2018 Oct 9.,2019,0,J Clin Epidemiol
+J Clin Epidemiol. 2012 Feb;65(2):155-62. doi: 10.1016/j.jclinepi.2011.06.012. Epub 2011 Oct 12.,2012,0,J Clin Epidemiol
+J Clin Epidemiol. 2017 Jan;81:96-100. doi: 10.1016/j.jclinepi.2016.09.008. Epub 2016 Sep 29.,2017,0,J Clin Epidemiol
+J Clin Epidemiol. 2018 Feb;94:69-75. doi: 10.1016/j.jclinepi.2017.11.003. Epub 2017 Nov 11.,2018,0,J Clin Epidemiol
+J Clin Epidemiol. 2020 Jul;123:80-90. doi: 10.1016/j.jclinepi.2020.03.017. Epub 2020 Apr 1.,2020,0,J Clin Epidemiol
+J Clin Epidemiol. 1999 Dec;52(12):1143-56. doi: 10.1016/s0895-4356(99)00141-9.,1999,0,J Clin Epidemiol
+J Clin Epidemiol. 2020 Aug;124:85-93. doi: 10.1016/j.jclinepi.2020.05.011. Epub 2020 May 12.,2020,0,J Clin Epidemiol
+J Clin Epidemiol. 2020 Jun;122:70-77. doi: 10.1016/j.jclinepi.2020.03.001. Epub 2020 Mar 6.,2020,0,J Clin Epidemiol
+J Clin Epidemiol. 1995 Feb;48(2):269-80. doi: 10.1016/0895-4356(94)00128-d.,1995,1,J Clin Epidemiol
+J Clin Epidemiol. 2002 May;55(5):430-5. doi: 10.1016/s0895-4356(01)00496-6.,2002,0,J Clin Epidemiol
+J Clin Epidemiol. 2008 Dec;61(12):1296-1300. doi: 10.1016/j.jclinepi.2008.07.005. Epub 2008 Oct 21.,2008,0,J Clin Epidemiol
+J Clin Epidemiol. 2023 Aug;160:83-99. doi: 10.1016/j.jclinepi.2023.06.013. Epub 2023 Jun 26.,2023,0,J Clin Epidemiol
+J Clin Epidemiol. 2015 Mar;68(3):246-56. doi: 10.1016/j.jclinepi.2014.11.004. Epub 2014 Nov 13.,2015,0,J Clin Epidemiol
+J Clin Epidemiol. 2021 Jul;135:176-181. doi: 10.1016/j.jclinepi.2021.02.022. Epub 2021 Mar 1.,2021,0,J Clin Epidemiol
+J Clin Epidemiol. 2023 Nov 2:S0895-4356(23)00282-2. doi: 10.1016/j.jclinepi.2023.10.022. Online ahead of print.,2023,0,J Clin Epidemiol
+J Clin Epidemiol. 2016 Jun;74:93-106.e2. doi: 10.1016/j.jclinepi.2015.09.019. Epub 2016 Feb 2.,2016,0,J Clin Epidemiol
+J Clin Epidemiol. 2007 Apr;60(4):389-96. doi: 10.1016/j.jclinepi.2006.07.010. Epub 2006 Dec 11.,2007,0,J Clin Epidemiol
+J Clin Epidemiol. 2019 Jun;110:82-89. doi: 10.1016/j.jclinepi.2019.03.003. Epub 2019 Mar 8.,2019,0,J Clin Epidemiol
+J Clin Epidemiol. 1991;44(9):895-906. doi: 10.1016/0895-4356(91)90052-b.,1991,0,J Clin Epidemiol
+J Clin Epidemiol. 2017 May;85:12-13. doi: 10.1016/j.jclinepi.2017.03.009.,2017,0,J Clin Epidemiol
+J Clin Epidemiol. 2014 Feb;67(2):138-43. doi: 10.1016/j.jclinepi.2013.07.014. Epub 2013 Oct 3.,2014,0,J Clin Epidemiol
+J Clin Epidemiol. 2021 Aug;136:55-63. doi: 10.1016/j.jclinepi.2021.03.020. Epub 2021 Mar 26.,2021,0,J Clin Epidemiol
+J Clin Epidemiol. 2022 Apr;144:93-101. doi: 10.1016/j.jclinepi.2021.12.009. Epub 2021 Dec 12.,2022,0,J Clin Epidemiol
+J Clin Epidemiol. 2018 Jun;98:62-69. doi: 10.1016/j.jclinepi.2018.02.008. Epub 2018 Feb 14.,2018,1,J Clin Epidemiol
+J Clin Epidemiol. 2022 Nov;151:53-64. doi: 10.1016/j.jclinepi.2022.07.005. Epub 2022 Aug 4.,2022,0,J Clin Epidemiol
+J Clin Epidemiol. 1993 Jun;46(6):529-34. doi: 10.1016/0895-4356(93)90125-k.,1993,0,J Clin Epidemiol
+J Clin Epidemiol. 2021 Oct;138:73-79. doi: 10.1016/j.jclinepi.2021.06.022. Epub 2021 Jun 26.,2021,0,J Clin Epidemiol
+J Clin Epidemiol. 2019 Sep;113:1-10. doi: 10.1016/j.jclinepi.2019.04.023. Epub 2019 May 3.,2019,0,J Clin Epidemiol
+J Clin Epidemiol. 2021 Apr;132:116-124. doi: 10.1016/j.jclinepi.2020.12.006. Epub 2020 Dec 17.,2021,0,J Clin Epidemiol
+J Clin Epidemiol. 2014 Nov;67(11):1251-7. doi: 10.1016/j.jclinepi.2014.05.020. Epub 2014 Sep 6.,2014,0,J Clin Epidemiol
+J Clin Epidemiol. 2022 Apr;144:173-184. doi: 10.1016/j.jclinepi.2021.11.032. Epub 2021 Nov 26.,2022,1,J Clin Epidemiol
+J Clin Epidemiol. 2017 Mar;83:6-7. doi: 10.1016/j.jclinepi.2016.12.014. Epub 2017 Jan 16.,2017,0,J Clin Epidemiol
+J Clin Epidemiol. 2019 Jul;111:60-68.e1. doi: 10.1016/j.jclinepi.2019.03.005. Epub 2019 Mar 20.,2019,0,J Clin Epidemiol
+J Clin Epidemiol. 2015 Dec;68(12):1481-7. doi: 10.1016/j.jclinepi.2015.04.013. Epub 2015 Jun 10.,2015,0,J Clin Epidemiol
+J Clin Epidemiol. 2021 Jul;135:1-9. doi: 10.1016/j.jclinepi.2021.02.006. Epub 2021 Feb 9.,2021,0,J Clin Epidemiol
+J Clin Epidemiol. 2020 Nov;127:87-95. doi: 10.1016/j.jclinepi.2020.07.011. Epub 2020 Jul 22.,2020,0,J Clin Epidemiol
+J Clin Epidemiol. 2021 Sep;137:126-132. doi: 10.1016/j.jclinepi.2021.03.027. Epub 2021 Apr 7.,2021,0,J Clin Epidemiol
+J Clin Epidemiol. 2021 Jun;134:125-137. doi: 10.1016/j.jclinepi.2021.02.004. Epub 2021 Feb 10.,2021,0,J Clin Epidemiol
+J Clin Epidemiol. 2021 Aug;136:203-215. doi: 10.1016/j.jclinepi.2021.04.018. Epub 2021 May 11.,2021,0,J Clin Epidemiol
+J Clin Epidemiol. 2019 Sep;113:168-175. doi: 10.1016/j.jclinepi.2019.05.030. Epub 2019 May 30.,2019,0,J Clin Epidemiol
+J Clin Epidemiol. 2022 Sep;149:60-82. doi: 10.1016/j.jclinepi.2022.05.020. Epub 2022 May 30.,2022,0,J Clin Epidemiol
+J Clin Epidemiol. 2019 Nov;115:116-124. doi: 10.1016/j.jclinepi.2019.06.018. Epub 2019 Jul 19.,2019,0,J Clin Epidemiol
+J Clin Epidemiol. 2022 Nov;151:113-121. doi: 10.1016/j.jclinepi.2022.08.007. Epub 2022 Aug 18.,2022,0,J Clin Epidemiol
+J Clin Epidemiol. 2013 Feb;66(2):140-50. doi: 10.1016/j.jclinepi.2012.04.012. Epub 2012 Aug 3.,2013,0,J Clin Epidemiol
+J Clin Epidemiol. 2019 Jan;105:27-39. doi: 10.1016/j.jclinepi.2018.08.017. Epub 2018 Aug 29.,2019,0,J Clin Epidemiol
+J Clin Epidemiol. 2021 Jan;129:68-73. doi: 10.1016/j.jclinepi.2020.09.030. Epub 2020 Oct 1.,2021,0,J Clin Epidemiol
+J Clin Epidemiol. 2020 Jun;122:12-19. doi: 10.1016/j.jclinepi.2020.02.004. Epub 2020 Feb 24.,2020,0,J Clin Epidemiol
+J Clin Epidemiol. 2021 Mar;131:141-151. doi: 10.1016/j.jclinepi.2020.11.016. Epub 2020 Dec 3.,2021,0,J Clin Epidemiol
+J Clin Epidemiol. 2003 Apr;56(4):297-303. doi: 10.1016/s0895-4356(03)00011-8.,2003,0,J Clin Epidemiol
+J Clin Epidemiol. 2021 Apr;132:131-132. doi: 10.1016/j.jclinepi.2020.12.008. Epub 2020 Dec 7.,2021,0,J Clin Epidemiol
+J Clin Epidemiol. 2013 Feb;66(2):151-7. doi: 10.1016/j.jclinepi.2012.01.006. Epub 2012 Apr 27.,2013,0,J Clin Epidemiol
+J Clin Epidemiol. 2021 Sep;137:209-217. doi: 10.1016/j.jclinepi.2021.04.012. Epub 2021 Apr 30.,2021,0,J Clin Epidemiol
+J Clin Epidemiol. 2016 Feb;70:52-60. doi: 10.1016/j.jclinepi.2015.08.018. Epub 2015 Sep 3.,2016,0,J Clin Epidemiol
+J Clin Epidemiol. 2010 Jan;63(1):11-8. doi: 10.1016/j.jclinepi.2009.06.007. Epub 2009 Sep 8.,2010,0,J Clin Epidemiol
+J Clin Epidemiol. 1997 Nov;50(11):1281-7. doi: 10.1016/s0895-4356(97)00196-0.,1997,0,J Clin Epidemiol
+J Clin Epidemiol. 2018 Dec;104:24-34. doi: 10.1016/j.jclinepi.2018.07.016. Epub 2018 Aug 1.,2018,0,J Clin Epidemiol
+J Clin Epidemiol. 2001 Apr;54(4):343-9. doi: 10.1016/s0895-4356(00)00314-0.,2001,0,J Clin Epidemiol
+J Clin Epidemiol. 2021 Mar;131:101-112. doi: 10.1016/j.jclinepi.2020.11.011. Epub 2020 Nov 21.,2021,0,J Clin Epidemiol
+J Clin Epidemiol. 2021 Aug;136:168-179. doi: 10.1016/j.jclinepi.2021.04.019. Epub 2021 May 8.,2021,0,J Clin Epidemiol
+J Clin Epidemiol. 2019 Oct;114:1-10. doi: 10.1016/j.jclinepi.2019.05.011. Epub 2019 Jun 11.,2019,0,J Clin Epidemiol
+J Clin Epidemiol. 1999 Jun;52(6):487-97. doi: 10.1016/s0895-4356(99)00041-4.,1999,0,J Clin Epidemiol
+J Clin Epidemiol. 2023 Jun;158:62-69. doi: 10.1016/j.jclinepi.2023.03.013. Epub 2023 Mar 24.,2023,0,J Clin Epidemiol
+J Clin Epidemiol. 2015 Jul;68(7):833-42. doi: 10.1016/j.jclinepi.2015.02.016. Epub 2015 Mar 6.,2015,0,J Clin Epidemiol
+J Clin Epidemiol. 2021 Jan;129:21-30. doi: 10.1016/j.jclinepi.2020.09.027. Epub 2020 Sep 29.,2021,0,J Clin Epidemiol
+J Clin Epidemiol. 2021 Nov;139:255-263. doi: 10.1016/j.jclinepi.2021.04.021. Epub 2021 May 25.,2021,0,J Clin Epidemiol
+J Clin Epidemiol. 2022 May;145:112-120. doi: 10.1016/j.jclinepi.2022.01.014. Epub 2022 Jan 23.,2022,0,J Clin Epidemiol
+J Clin Epidemiol. 2022 Mar;143:137-148. doi: 10.1016/j.jclinepi.2021.12.013. Epub 2021 Dec 13.,2022,0,J Clin Epidemiol
+J Clin Epidemiol. 2008 Dec;61(12):1205-1215.e2. doi: 10.1016/j.jclinepi.2008.04.003. Epub 2008 Sep 7.,2008,0,J Clin Epidemiol
+J Clin Epidemiol. 2008 Mar;61(3):209-31. doi: 10.1016/j.jclinepi.2007.04.019. Epub 2008 Jan 14.,2008,0,J Clin Epidemiol
+J Clin Epidemiol. 2016 May;73:43-9. doi: 10.1016/j.jclinepi.2015.11.022. Epub 2016 Feb 18.,2016,0,J Clin Epidemiol
+J Clin Epidemiol. 2019 Mar;107:36-41. doi: 10.1016/j.jclinepi.2018.11.014. Epub 2018 Nov 17.,2019,0,J Clin Epidemiol
+J Clin Epidemiol. 2022 Oct;150:80-89. doi: 10.1016/j.jclinepi.2022.06.020. Epub 2022 Jul 2.,2022,0,J Clin Epidemiol
+J Clin Epidemiol. 1995 Jan;48(1):45-57; discussion 59-60. doi: 10.1016/0895-4356(94)00106-z.,1995,1,J Clin Epidemiol
+J Clin Epidemiol. 2021 Oct;138:22-31. doi: 10.1016/j.jclinepi.2021.06.025. Epub 2021 Jul 2.,2021,0,J Clin Epidemiol
+J Clin Epidemiol. 2008 Mar;61(3):241-6. doi: 10.1016/j.jclinepi.2007.07.016.,2008,0,J Clin Epidemiol
+J Clin Epidemiol. 2017 Mar;83:3-5. doi: 10.1016/j.jclinepi.2016.11.020. Epub 2017 Jan 17.,2017,0,J Clin Epidemiol
+J Clin Epidemiol. 2020 Oct;126:17-25. doi: 10.1016/j.jclinepi.2020.05.029. Epub 2020 Jun 9.,2020,0,J Clin Epidemiol
+J Clin Epidemiol. 2017 Apr;84:47-53. doi: 10.1016/j.jclinepi.2016.11.011. Epub 2017 Jan 11.,2017,0,J Clin Epidemiol
+J Clin Epidemiol. 2022 May;145:1-13. doi: 10.1016/j.jclinepi.2022.01.007. Epub 2022 Jan 16.,2022,1,J Clin Epidemiol
+J Clin Epidemiol. 1991;44(9):981-8. doi: 10.1016/0895-4356(91)90069-l.,1991,0,J Clin Epidemiol
+J Clin Epidemiol. 2010 Aug;63(8):907-13. doi: 10.1016/j.jclinepi.2009.09.013. Epub 2010 Feb 20.,2010,0,J Clin Epidemiol
+J Clin Epidemiol. 2022 Sep;149:227-235. doi: 10.1016/j.jclinepi.2022.05.002. Epub 2022 May 13.,2022,0,J Clin Epidemiol
+J Clin Epidemiol. 2023 Mar;155:13-21. doi: 10.1016/j.jclinepi.2022.12.009. Epub 2022 Dec 15.,2023,0,J Clin Epidemiol
+J Clin Epidemiol. 2011 Sep;64(9):949-67. doi: 10.1016/j.jclinepi.2010.11.016. Epub 2011 Mar 16.,2011,1,J Clin Epidemiol
+J Clin Epidemiol. 2021 Mar;131:70-78. doi: 10.1016/j.jclinepi.2020.11.007. Epub 2020 Nov 24.,2021,0,J Clin Epidemiol
+J Clin Epidemiol. 2020 Dec;128:49-56. doi: 10.1016/j.jclinepi.2020.08.013. Epub 2020 Aug 20.,2020,0,J Clin Epidemiol
+J Clin Epidemiol. 2001 Apr;54(4):430-2. doi: 10.1016/s0895-4356(00)00277-8.,2001,0,J Clin Epidemiol
+J Clin Epidemiol. 2005 Oct;58(10):974-81. doi: 10.1016/j.jclinepi.2005.01.018.,2005,0,J Clin Epidemiol
+J Clin Epidemiol. 2014 Aug;67(8):850-7. doi: 10.1016/j.jclinepi.2014.03.012. Epub 2014 May 13.,2014,0,J Clin Epidemiol
+J Clin Epidemiol. 2022 Dec;152:257-268. doi: 10.1016/j.jclinepi.2022.10.015. Epub 2022 Oct 27.,2022,0,J Clin Epidemiol
+J Clin Epidemiol. 1995 Feb;48(2):173-8. doi: 10.1016/0895-4356(94)00116-8.,1995,0,J Clin Epidemiol
+J Clin Epidemiol. 2023 Jul;159:1-9. doi: 10.1016/j.jclinepi.2023.04.010. Epub 2023 May 2.,2023,0,J Clin Epidemiol
+J Clin Epidemiol. 2018 Jul;99:106-112. doi: 10.1016/j.jclinepi.2018.03.010. Epub 2018 Mar 26.,2018,0,J Clin Epidemiol
+J Clin Epidemiol. 1998 Aug;51(8):637-41. doi: 10.1016/s0895-4356(98)00021-3.,1998,0,J Clin Epidemiol
+J Clin Epidemiol. 2008 Sep;61(9):857-65. doi: 10.1016/j.jclinepi.2008.03.004.,2008,0,J Clin Epidemiol
+J Clin Epidemiol. 2022 Oct;150:42-50. doi: 10.1016/j.jclinepi.2022.06.012. Epub 2022 Jun 24.,2022,0,J Clin Epidemiol
+J Clin Epidemiol. 2021 Sep;137:182-194. doi: 10.1016/j.jclinepi.2021.04.005. Epub 2021 Apr 20.,2021,0,J Clin Epidemiol
+J Clin Epidemiol. 2023 May;157:53-58. doi: 10.1016/j.jclinepi.2023.03.004. Epub 2023 Mar 6.,2023,0,J Clin Epidemiol
+J Clin Epidemiol. 2007 Jun;60(6):547-53. doi: 10.1016/j.jclinepi.2006.06.017. Epub 2006 Oct 25.,2007,0,J Clin Epidemiol
+J Clin Epidemiol. 2019 Jun;110:12-22. doi: 10.1016/j.jclinepi.2019.02.004. Epub 2019 Feb 11.,2019,0,J Clin Epidemiol
+J Clin Epidemiol. 2022 Aug;148:135-145. doi: 10.1016/j.jclinepi.2022.02.005. Epub 2022 Feb 19.,2022,0,J Clin Epidemiol
+J Clin Epidemiol. 2023 Jun;158:99-110. doi: 10.1016/j.jclinepi.2023.03.024. Epub 2023 Apr 5.,2023,0,J Clin Epidemiol
+J Clin Epidemiol. 2005 Jan;58(1):13-9. doi: 10.1016/j.jclinepi.2004.05.006.,2005,0,J Clin Epidemiol
+J Clin Epidemiol. 2020 Mar;119:75-84. doi: 10.1016/j.jclinepi.2019.12.002. Epub 2019 Dec 3.,2020,0,J Clin Epidemiol
+J Clin Epidemiol. 2018 Dec;104:62-72. doi: 10.1016/j.jclinepi.2018.08.018. Epub 2018 Aug 29.,2018,0,J Clin Epidemiol
+J Clin Epidemiol. 2021 Mar;131:51-58. doi: 10.1016/j.jclinepi.2020.11.008. Epub 2020 Nov 21.,2021,0,J Clin Epidemiol
+J Clin Epidemiol. 2017 Dec;92:4-6. doi: 10.1016/j.jclinepi.2017.08.018. Epub 2017 Sep 1.,2017,0,J Clin Epidemiol
+J Clin Epidemiol. 2017 May;85:21-31. doi: 10.1016/j.jclinepi.2017.04.019. Epub 2017 May 4.,2017,0,J Clin Epidemiol
+J Clin Epidemiol. 2021 Feb;130:49-58. doi: 10.1016/j.jclinepi.2020.10.013. Epub 2020 Oct 17.,2021,0,J Clin Epidemiol
+J Clin Epidemiol. 2022 Oct;150:196-202. doi: 10.1016/j.jclinepi.2022.04.006. Epub 2022 Apr 14.,2022,0,J Clin Epidemiol
+J Clin Epidemiol. 2009 Jul;62(7):759-65. doi: 10.1016/j.jclinepi.2008.07.011. Epub 2008 Nov 14.,2009,0,J Clin Epidemiol
+J Clin Epidemiol. 2020 Dec;128:1-12. doi: 10.1016/j.jclinepi.2020.08.002. Epub 2020 Aug 8.,2020,0,J Clin Epidemiol
+J Clin Epidemiol. 2018 Feb;94:8-18. doi: 10.1016/j.jclinepi.2017.10.017. Epub 2017 Nov 4.,2018,0,J Clin Epidemiol
+J Clin Epidemiol. 2018 Aug;100:13-21. doi: 10.1016/j.jclinepi.2018.04.011. Epub 2018 Apr 19.,2018,0,J Clin Epidemiol
+J Clin Epidemiol. 2006 Mar;59(3):246-53. doi: 10.1016/j.jclinepi.2005.08.015.,2006,0,J Clin Epidemiol
+J Clin Epidemiol. 2014 Jan;67(1):108-13. doi: 10.1016/j.jclinepi.2013.07.016.,2014,0,J Clin Epidemiol
+J Clin Epidemiol. 2008 May;61(5):455-63. doi: 10.1016/j.jclinepi.2007.06.006. Epub 2007 Nov 28.,2008,0,J Clin Epidemiol
+J Clin Epidemiol. 2003 Sep;56(9):833-42. doi: 10.1016/s0895-4356(03)00155-0.,2003,0,J Clin Epidemiol
