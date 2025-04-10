@@ -1,5 +1,5 @@
 ---
-title: "stat332 Final Project Code"
+title: "Project Code"
 output:
   pdf_document: default
 ---
@@ -42,7 +42,7 @@ Variance_neyman_prop <- function(n, Ws, sigmas, N) {
 ```{r Application under proportional allocation}
 n1_prop <- 67; n2_prop <- 35; n3_prop <- 223
 nhs_prop <- c(n1_prop, n2_prop, n3_prop)
-proportional_samples <- read.csv("Final Project Data - Proportional Allocation Data.csv")
+proportional_samples <- read.csv("Proportional Allocation Data.csv")
 Stats.Med_sample_prop <- proportional_samples[1:67, ]
 Med.Res_sample_prop <- proportional_samples[68:102, ]
 J.Clin_sample_prop <- proportional_samples[103:325, ]
@@ -94,9 +94,9 @@ proportional_summary_prop <- data.frame(
 ```
 ```{r warning=FALSE}
 ## Strata summaries, Population variances
-Stats.Med <- read.csv("Stat332 Final Project Data - Stats. Med. .csv")
-Med.Res <- read.csv("Stat332 Final Project Data - Stat. Methods Med. Res.csv")
-J.Clin <- read.csv("Stat332 Final Project Data - J. Clin. Epidemiol.csv")
+Stats.Med <- read.csv("Stats. Med. Data.csv")
+Med.Res <- read.csv("Stat. Methods Med. Res Data.csv")
+J.Clin <- read.csv("J. Clin. Epidemiol Data.csv")
 ## Data summaries of Stats.Med
 Stats.Med_mean <- mean(Stats.Med$Meta.Analysis)
 Stats.Med_total <- sum(Stats.Med$Meta.Analysis)
@@ -141,7 +141,7 @@ neyman_sizes <- neyman_size_calc(n, Whs, strata_variances); neyman_sizes
 ```{r Application of function under Neyman Allocation}
 n1_neyman <- 97; n2_neyman <- 38; n3_neyman <- 190
 nhs_neyman <- c(n1_neyman, n2_neyman, n3_neyman)
-neyman_samples <- read.csv("Final Project Data - Neyman Allocation Data.csv")
+neyman_samples <- read.csv("Neyman Allocation Data.csv")
 ## Journals as Strata
 Stats.Med_sample_neyman <- neyman_samples[1:97, ]
 Med.Res_sample_neyman <- neyman_samples[98:135, ]
